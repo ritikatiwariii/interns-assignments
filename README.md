@@ -27,10 +27,7 @@ interns-assignments/
 │
 └── Question4/
       ├── index.js
-      ├── package.json
-      ├── package-lock.json
-      ├── .env            (ignored)
-      └── node_modules/   (ignored)
+      
 ```
 
 ---
